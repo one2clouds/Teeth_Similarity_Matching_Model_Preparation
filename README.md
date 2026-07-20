@@ -130,3 +130,10 @@ wandb
 vtk              # for thumbnail rendering
 ```
  
+## Results
+ 
+Example similarity-search results (rendered as HTML) are available here:
+ 
+[Teeth_Similarity_Results](https://drive.google.com/drive/folders/1KYy1JN0NvM1VAQLI2_TeBQcXdqP1Aj0Q?usp=sharing)
+ 
+> **Note:** these are `.html` files, so Google Drive's built-in preview won't render them correctly. Download the file(s) first, then open the downloaded copy in your browser of choice to view the results properly.
